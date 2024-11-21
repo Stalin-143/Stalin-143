@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Hacking Based Project<br><br>🤝 I’m looking for help with AI & Ethical Hacking<br><br>🌱 I’m currently learning Quantum Computing<br><br>💬 Ask me about AI & Data Science, Ethical Hacking<br><br>⚡ Fun fact 🌎 Travel Enthusiast
+👯 I’m looking to collaborate on Hacking Based Project<br><br>🤝 I’m looking for help with AI & Ethical Hacking<br><br>🌱 I’m currently learning Hacking with AI<br><br>💬 Ask me about AI & Data Science, Ethical Hacking<br><br>⚡ Fun fact 🌎 Travel Enthusiast
 
 
 ## 🌐 Socials:
