@@ -16,6 +16,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=stalin-143&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 
+## ✍️ Dev Quote
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=stalin-143&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
