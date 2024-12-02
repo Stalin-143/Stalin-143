@@ -35,7 +35,7 @@
 
 # 💻 Tech Stack:
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-%2331568D.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
-![GitHub Skills](https://img.shields.io/badge/GitHub_Skills-%23333.svg?style=for-the-badge&logo=github&logoColor=white)
+![Tail OS](https://img.shields.io/badge/Tail_OS-%2331568D.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-%23367C57.svg?style=for-the-badge&logo=parrot&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-%233A4B8D.svg?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-%232C6B8C.svg?style=for-the-badge&logo=fedora&logoColor=white)
