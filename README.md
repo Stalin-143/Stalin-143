@@ -33,7 +33,7 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-%2331568D.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-%23367C57.svg?style=for-the-badge&logo=parrot&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-%233A4B8D.svg?style=for-the-badge&logo=archlinux&logoColor=white)
-![Fluoros OS](https://img.shields.io/badge/Fluoros_OS-%23FF5733.svg?style=for-the-badge&logo=fluoros&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-%232C6B8C.svg?style=for-the-badge&logo=fedora&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Anonymous OS](https://img.shields.io/badge/Anonymous_OS-%23000000.svg?style=for-the-badge&logo=anonymous&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
