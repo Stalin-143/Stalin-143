@@ -1,10 +1,14 @@
 ![stalin78830@gmail com](https://github.com/user-attachments/assets/3a568706-9fc1-47e0-80fc-7f9143fcb9e4)
 
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&color=11F791&background=3BFFFD00&vCenter=true&lines=Ethical+Hacker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&color=11F791&background=3BFFFD00&vCenter=true&lines=Ethical+Hacker+:);Learning+constantly" alt="Typing SVG" />
 </a>
 
 
+
+
+</a>
  
 # 💫 About Me:
 
