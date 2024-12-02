@@ -1,6 +1,9 @@
 ![stalin78830@gmail com](https://github.com/user-attachments/assets/3a568706-9fc1-47e0-80fc-7f9143fcb9e4)
 
-
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&color=11F791&background=3BFFFD00&vCenter=true&lines=Ethical+Hacker" alt="Typing SVG" />
+</a>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  
 # 💫 About Me:
 
@@ -8,10 +11,6 @@
 <img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 👯 I’m looking to collaborate on Hacking Based Project<br><br>🤝 I’m looking for help with AI & Ethical Hacking<br><br>🌱 I’m currently learning Hacking with AI<br><br>💬 Ask me about AI & Data Science, Ethical Hacking<br><br>⚡ Fun fact 🌎 Travel Enthusiast
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&color=11F791&background=3BFFFD00&vCenter=true&lines=Ethical+Hacker" alt="Typing SVG" />
-</a>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🌐 Socials:
 
