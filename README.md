@@ -1,3 +1,6 @@
+
+
+ 
 # 💫 About Me:
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -5,6 +8,11 @@
 
 👯 I’m looking to collaborate on Hacking Based Project<br><br>🤝 I’m looking for help with AI & Ethical Hacking<br><br>🌱 I’m currently learning Hacking with AI<br><br>💬 Ask me about AI & Data Science, Ethical Hacking<br><br>⚡ Fun fact 🌎 Travel Enthusiast
 
+
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&color=11F791&background=3BFFFD00&vCenter=true&lines=Ethical+Hacker" alt="Typing SVG" />
+</a>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🌐 Socials:
