@@ -16,6 +16,14 @@
 <img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 👯 I’m looking to collaborate on Hacking Based Project<br><br>🤝 I’m looking for help with AI & Ethical Hacking<br><br>🌱 I’m currently learning Hacking with AI<br><br>💬 Ask me about AI & Data Science, Ethical Hacking<br><br>⚡ Fun fact 🌎 Travel Enthusiast
+
+
+
+
+<a>
+          <img src="https://tryhackme-badges.s3.amazonaws.com/stalin143.png" alt="Your Image Badge" />
+</a>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🌐 Socials:
@@ -103,6 +111,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=stalin-143&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stalin-143&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stalin-143&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=stalin-143&theme=dark&no-frame=true&no-bg=true&margin-w=4)
