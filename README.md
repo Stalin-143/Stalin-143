@@ -1,15 +1,24 @@
-![stalin78830@gmail com](https://github.com/user-attachments/assets/3a568706-9fc1-47e0-80fc-7f9143fcb9e4)
+<div align="center">
 
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&color=11F791&background=3BFFFD00&vCenter=true&lines=Ethical+Hacker+:);Learning+constantly" alt="Typing SVG" />
-</a>
-
+<!-- Animated Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E4405F,10:FF6B6B,30:4ECDC4,75:45B7D1,100:96CEB4&height=300&section=header&text=Stalin%20S&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Ethical%20Hacker%20%7C%20AI%20Engineer&descAlignY=55&descAlign=center"/>
 
 
 
-</a>
- 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+<!-- Matrix Rain Effect -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=14&duration=100&pause=50&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=01001000+01100001+01100011+01101011+01101001+01101110+01100111+00100000+01110100+01101000+01100101+00100000+01110000+01101100+01100001+01101110+01100101+01110100;01000001+01001001+00100000+01110000+01101111+01110111+01100101+01110010+01100101+01100100+00100000+01110011+01100101+01100011+01110101+01110010+01101001+01110100+01111001;01010111+01100101+01101100+01100011+01101111+01101101+01100101+00100000+01110100+01101111+00100000+01110100+01101000+01100101+00100000+01100110+01110101+01110100+01110101+01110010+01100101" alt="Matrix Code" />
+</div>
+
+
+
+
+
+
 # 💫 About Me:
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
