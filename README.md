@@ -45,24 +45,10 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/S_t_a_l_i__?t=WUs-_kPygUlFU4raisBhYA&s=09) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Python.py_143)    
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=stalin-143&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stalin-143&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stalin-143&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 
 ## 🏆 GitHub Trophies
