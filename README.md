@@ -22,29 +22,21 @@
 
 ## 🌐 Socials:
 
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-%2331568D.svg?logo=kali-linux&logoColor=white)](https://www.kali.org/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9Pyqzj2h) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_stali.n_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stalin-s-a310882a0/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@stali.n) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/stalin78830/) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/s_t_a_l_i_i/) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/S_t_a_l_i__?t=WUs-_kPygUlFU4raisBhYA&s=09) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Python.py_143)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=stalin-143&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stalin-143&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stalin-143&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=stalin-143&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+
 
 ## ✍️ Dev Quote
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=stalin-143&limit=5&theme=merko&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=stalin-143&icon=2&color=9)](https://visitcount.itsvg.in)
