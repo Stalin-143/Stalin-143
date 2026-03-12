@@ -16,14 +16,20 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/5t4l1n.png" alt="Your Image Badge" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+
 
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stalin-s-a310882a0/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@stali.n) 
+![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-HackerOne-blue)
+![Bugcrowd](https://img.shields.io/badge/Bugcrowd-%23FF6200?logo=bugcrowd&logoColor=white)
 
 
 # 📊 GitHub Stats:
