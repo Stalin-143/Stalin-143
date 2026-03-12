@@ -28,7 +28,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stalin-s-a310882a0/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@stali.n) 
-![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-HackerOne-blue)
+![Hacker one](https://img.shields.io/badge/Bug%20Bounty-HackerOne-blue)
 ![Bugcrowd](https://img.shields.io/badge/Bugcrowd-%23FF6200?logo=bugcrowd&logoColor=white)
 
 
